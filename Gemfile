@@ -21,3 +21,7 @@ end
 group :test do
   gem 'rspec-collection_matchers'
 end
+
+gem "pry-rails", "~> 0.3.9"
+
+gem "pry-rescue", "~> 1.5"
